@@ -31,6 +31,9 @@ public class AssertionsPractice {
 		
 		System.out.println("Step 3");
 		
+		
+		
+		
 		sa.assertAll();//failures logged
 	}
 
