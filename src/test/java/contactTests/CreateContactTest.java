@@ -28,7 +28,7 @@ public class CreateContactTest extends BaseClass {
 	@Test(groups = {"SmokeSuite","RegressionSuite"}) 
 	public void createNewContactTest() throws IOException, InterruptedException
 	{
-
+//push
 		// Step 1: Read all the required Data
 		/* Test Data */
 		String LASTNAME = eUtil.readDataFromExcel("Contacts", 1, 2);
